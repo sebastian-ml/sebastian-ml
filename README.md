@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hello, I am Sebastian 👋
+<hr></hr>
+
+#### Skills
+<p>Technologies that I am familiar with are <b>Python, Django, HTML, CSS, JavaScript, SQL, VBA.</b></p>
+  <p>I am not an expert, I am still learning and constantly improving my skills by making personal projects. Some of them can be found in my github repo.</p>
+<p>Things like Python, SQL/databases, VBA I've learned at the university. JavaScript, HTML, CSS I've been learning for several months during online courses and making personal projects.</p>
+<p>... and still learning, because there is so much knowledge to gain</p>
+
+#### Studies, working, learning
+<p>I am graduating full-time master's studies in the field of data analytics at the SGH Warsaw School of Economics this autumn. I am also working as a B2B Analyst and of course learning programming. Because of that, I am a bit busy person but I think I've also learned how to be flexible and how to manage my time.</p>
+
+#### Future programming plans
+<ul>
+  <li>Improve skills that I am familiar with</li>
+  <li>Learn new things e.g. React</li>
+ </ul>
+
 
 <!--
 **sebastian-ml/sebastian-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
