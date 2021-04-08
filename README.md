@@ -2,7 +2,7 @@
 <hr></hr>
 
 #### Skills :computer:
-<p>Technologies that I am familiar with are <b>Python, Django, HTML, CSS, JavaScript, SQL, VBA.</b></p>
+<p>Technologies that I am familiar with are <b>Python, Django, semantic HTML, CSS (SCSS, BEM), JavaScript, SQL, VBA.</b></p>
  <p>I am not an expert, I'm still learning and constantly improving my skills by making personal projects which are still developed. Some of them can be found in my github repo.</p>
 <p>Things like Python, SQL/databases, VBA I've learned at the university. JavaScript, HTML, CSS I've been learning for several months during online courses and making personal projects.</p>
 <p>... and still learning, because there is so much knowledge to gain</p>
