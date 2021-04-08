@@ -4,7 +4,7 @@
 #### Skills
 <p>Technologies that I am familiar with are <b>Python, Django, HTML, CSS, JavaScript, SQL, VBA.</b></p>
   <p>I am not an expert, I am still learning and constantly improving my skills by making personal projects. Some of them can be found in my github repo.</p>
-<p>Things like Python, SQL/databases, VBA I've learned at the university. JavaScript, HTML, CSS I've been learning for several months during online courses and making personal projects.</p>
+<p>Things like Python, SQL/databases, VBA I've learned at the university. JavaScript, HTML, CSS I've been learning for several months during online courses and making personal projects which are still developed.</p>
 <p>... and still learning, because there is so much knowledge to gain</p>
 
 #### Studies, working, learning
@@ -16,6 +16,10 @@
   <li>Learn new things e.g. React</li>
  </ul>
 
+<hr></hr>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-ml&theme=prussian" alt="Most used languages"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebastian-ml&theme=prussian" alt="Most used languages"/></p>
 
 <!--
 **sebastian-ml/sebastian-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
