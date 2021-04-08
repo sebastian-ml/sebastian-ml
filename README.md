@@ -3,12 +3,12 @@
 
 #### Skills
 <p>Technologies that I am familiar with are <b>Python, Django, HTML, CSS, JavaScript, SQL, VBA.</b></p>
-  <p>I am not an expert, I am still learning and constantly improving my skills by making personal projects which are still developed. Some of them can be found in my github repo.</p>
+ <p>I am not an expert, I am still learning and constantly improving my skills by making personal projects which are still developed. Some of them can be found in my github repo.</p>
 <p>Things like Python, SQL/databases, VBA I've learned at the university. JavaScript, HTML, CSS I've been learning for several months during online courses and making personal projects.</p>
 <p>... and still learning, because there is so much knowledge to gain</p>
 
 #### Studies, working, learning
-<p>I am graduating full-time master's studies in the field of data analytics at the SGH Warsaw School of Economics this autumn. I am also working as a B2B Analyst and of course learning programming. Because of that, I am a bit busy person but I think I've also learned how to be flexible and how to manage my time.</p>
+<p>I am graduating full-time master's studies in the field of data analytics at the SGH Warsaw School of Economics this autumn. I am also working as a B2B Analyst and in my spare time I am learning programming. Because of that, I am a bit busy person but I think I've also learned how to be flexible and how to manage my time.</p>
 
 #### Future programming plans
 <ul>
