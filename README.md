@@ -7,7 +7,7 @@
 <p>Things like Python, SQL/databases, VBA I've learned at the university. JavaScript, HTML, CSS I've been learning for several months during online courses and making personal projects.</p>
 <p>... and still learning, because there is so much knowledge to gain</p>
 
-#### Studies, working, learning
+#### Studying, working, learning
 <p>I'm graduating full-time master's studies in the field of data analytics at the SGH Warsaw School of Economics this autumn. I'm also working as a B2B Analyst and in my spare time I'm learning programming. Because of that, I'm a bit busy person but I think I've also learned how to be flexible and how to manage my time.</p>
 
 #### Future programming plans
